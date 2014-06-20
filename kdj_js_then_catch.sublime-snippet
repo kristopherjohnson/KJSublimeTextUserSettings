@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+then(function(${1:data}) {
+  $0
+}).catch(function(error) {
+  // TODO: handle error
+});
+]]></content>
+    <tabTrigger>then</tabTrigger>
+    <scope>source.js</scope>
+    <description>promise then/catch</description>
+</snippet>

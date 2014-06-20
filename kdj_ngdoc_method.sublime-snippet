@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @ngdoc function
+ * @methodOf ${1:MODULE}.${2:TYPE}:${3:PARENT}
+ * @name ${4:NAME}
+ * @description
+ * ${5:description}
+ *
+ * @returns ${6:returns}
+ */
+]]></content>
+    <tabTrigger>ngdocmethod</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

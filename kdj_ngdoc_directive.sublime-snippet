@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @ngdoc directive
+ * @name ${1:name}
+ * @restrict ${2:restrict}
+ *
+ * @description
+ * ${3:description}
+ */
+]]></content>
+    <tabTrigger>ngdocdirective</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

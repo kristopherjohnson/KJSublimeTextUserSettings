@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+var iLimit = ${1:arrayname}.length;
+for (var i = 0; i < iLimit; ++i) {
+  var ${2:elem} = ${1:arrayname}[i];
+  $0
+}
+]]></content>
+    <tabTrigger>jsai</tabTrigger>
+    <scope>source.js</scope>
+    <description>JavaScript array iteration</description>
+</snippet>

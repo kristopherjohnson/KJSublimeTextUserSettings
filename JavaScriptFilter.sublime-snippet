@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+_.filter(${1:collection}, function(${2:element}) {
+  return $0;
+});
+]]></content>
+    <tabTrigger>jsfilter</tabTrigger>
+    <scope>source.js</scope>
+    <description>Lodash/Underscore filter</description>
+</snippet>

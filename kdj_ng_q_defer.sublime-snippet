@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+var deferred = \$q.defer();
+var promise = deferred.promise;
+
+deferred.resolve($0);
+
+return promise;
+]]></content>
+  <tabTrigger>qdefer</tabTrigger> -->
+  <scope>source.js</scope>
+  <description>AngularJS $q.defer() and return promise</description>
+</snippet>

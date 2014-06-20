@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+$http.get(${1:url}).success(function(data) {
+  $0
+}).error(function(data, status, headers, config) {
+  var errorDetail = {
+    message: 'Unable to retrieve ${1:url}',
+    data: data,
+    status: status,
+    headers: headers,
+    config: config
+  };
+  // TODO: do something with this errorDetail
+});
+]]></content>
+    <tabTrigger>$http.get</tabTrigger>
+    <scope>source.js</scope>
+    <description>AngularJS $http.get()</description>
+</snippet>
