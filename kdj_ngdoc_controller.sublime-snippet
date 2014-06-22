@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @ngdoc controller
+ * @name ${1:MODULE}.controller:${2:NAME}
+ * @description
+ * ${3:DESCRIPTION}
+ */
+]]></content>
+    <tabTrigger>ngdoccontroller</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
