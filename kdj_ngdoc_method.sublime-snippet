@@ -5,9 +5,10 @@
  * @methodOf ${1:MODULE}.${2:TYPE}:${3:PARENT}
  * @name ${4:NAME}
  * @description
- * ${5:description}
  *
- * @returns ${6:returns}
+ * ${5:DESCRIPTION}
+ *
+ * @returns ${6:RETURNS}
  */
 ]]></content>
     <tabTrigger>ngdocmethod</tabTrigger>

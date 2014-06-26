@@ -2,10 +2,10 @@
     <content><![CDATA[
 /**
  * @ngdoc directive
- * @name ${1:name}
- * @restrict ${2:restrict}
- *
+ * @name ${1:NAME}
+ * @restrict ${2:RESTRICT}
  * @description
+ *
  * ${3:description}
  */
 ]]></content>

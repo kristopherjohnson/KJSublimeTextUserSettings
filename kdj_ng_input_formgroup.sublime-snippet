@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+  <label for="${1:FIELDNAME}">${2:LABEL}</label>
+  <input ng-model="${3:MODEL}"
+    type="text"
+    id="${1:FIELDNAME}"
+    name="${1:FIELDNAME}"
+    class="form-control"
+    placeholder="${4:PLACEHOLDER}"
+    autocomplete="off"
+    required>
+</div>
+]]></content>
+    <tabTrigger>nginputformgroup</tabTrigger>
+    <scope>text.html.basic</scope>
+</snippet>

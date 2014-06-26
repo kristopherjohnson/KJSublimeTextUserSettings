@@ -2,14 +2,14 @@
     <content><![CDATA[
 /**
  * @ngdoc function
- * @name ${1:name}
- * @module ${2:module}
+ * @name ${1:NAME}
+ * @module ${2:MODULE}
  * @function
- *
  * @description
- * ${3:description}
  *
- * @returns ${4:returns}
+ * ${3:DESCRIPTION}
+ *
+ * @returns ${4:RETURNS}
  */
 ]]></content>
     <tabTrigger>ngdocfunction</tabTrigger>

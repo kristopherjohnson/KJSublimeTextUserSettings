@@ -2,11 +2,11 @@
     <content><![CDATA[
 /**
  * @ngdoc filter
- * @name ${1:name}
+ * @name ${1:NAME}
  * @function
- *
  * @description
- * ${2:description}
+ *
+ * ${2:DESCRIPTION}
  *
  * @param ${3:param}
  */

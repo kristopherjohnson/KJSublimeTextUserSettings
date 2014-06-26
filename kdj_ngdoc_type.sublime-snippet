@@ -2,12 +2,13 @@
     <content><![CDATA[
 /**
  * @ngdoc type
- * @name ${1:module}.${2:type}
+ * @name ${1:MODULE}.${2:TYPE}
  *
- * @property ${3:property}
+ * @property ${3:PROPERTY}
  *
  * @description
- * ${4:description}
+ *
+ * ${4:DESCRIPTION}
  */
 ]]></content>
     <tabTrigger>ngdoctype</tabTrigger>
