@@ -13,5 +13,6 @@
 </div>
 ]]></content>
     <tabTrigger>nginputformgroup</tabTrigger>
-    <scope>text.html.basic</scope>
+    <scope>text.html</scope>
+    <description>AngularJS form-group with label and input</description>
 </snippet>
