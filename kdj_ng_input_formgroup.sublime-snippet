@@ -1,13 +1,13 @@
 <snippet>
     <content><![CDATA[
 <div class="form-group">
-  <label for="${1:FIELDNAME}">${2:LABEL}</label>
+  <label for="${1:FIELDNAME}">${2:LABELTEXT}</label>
   <input ng-model="${3:MODEL}"
     type="text"
+    class="form-control"
     id="${1:FIELDNAME}"
     name="${1:FIELDNAME}"
-    class="form-control"
-    placeholder="${4:PLACEHOLDER}"
+    placeholder="${4:PLACEHOLDERTEXT}"
     autocomplete="off"
     required>
 </div>

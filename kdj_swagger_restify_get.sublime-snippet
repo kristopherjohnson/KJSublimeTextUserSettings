@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+server.get({
+  url: '${1:URLPATH}',
+  swagger: {
+    summary: '${2:SUMMARY}',
+    notes: '${3:NOTES}'
+  },
+  validation: {}
+}, function (req, res, next) {
+  ${4:IMPLEMENTATION}
+  return next();
+});
+]]></content>
+    <tabTrigger>swaggerget</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
