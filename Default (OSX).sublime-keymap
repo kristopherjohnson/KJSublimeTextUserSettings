@@ -1,5 +1,6 @@
 [
   { "keys": ["super+alt+ctrl+up"], "command": "select_lines", "args": {"forward": false} },
   { "keys": ["super+alt+ctrl+down"], "command": "select_lines", "args": {"forward": true} },
-  { "keys": ["alt+q"], "command": "wrap_lines_plus" }
+  { "keys": ["alt+q"], "command": "wrap_lines_plus" },
+  { "keys": ["ctrl+i"], "command": "reindent" }
 ]
